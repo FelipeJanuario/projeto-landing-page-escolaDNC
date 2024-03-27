@@ -1,8 +1,6 @@
 # landing-page-escolaDNC
 
-Landing page desenvolvida para coleta de Leads.
-
-Desenvolvimento desse site foi criado com a finalidade de captar leads para contatos posteriores, sendo listados em uma planilha no google sheets todas as informações inseridas no formulário da página.
+O desenvolvimento desse site foi criado com a finalidade de captar leads para contato posterior, sendo os valores inseridos no formulário listados em uma planilha no google sheets.
 
 Ao clicar no botão, será apresentado um anúncio.
 
