@@ -1,6 +1,6 @@
 # landing-page-escolaDNC
 
-O desenvolvimento desse site foi criado com a finalidade de captar leads para contato posterior, sendo os valores inseridos no formulário listados em uma planilha no google sheets.
+O desenvolvimento desse site foi criado com a finalidade de captar leads para contato posterior ou anúncios. Os valores inseridos no formulário serão listados em uma planilha no google sheets.
 
 Ao clicar no botão, será apresentado um anúncio.
 
